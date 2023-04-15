@@ -26,8 +26,9 @@ public class ChoiceMenu extends Account {
 				 * number
 				 */
 				
-				data.put(123123123, 12345);
-				data.put(123412345, 1236);
+				data.put(12345, 54321);
+				data.put(56789, 98765);
+				data.put(23568, 86532);
 				
 				System.out.println("Welcome to the ATM Project!");
 				
